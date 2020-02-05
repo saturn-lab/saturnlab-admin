@@ -3,5 +3,5 @@
 
 实验室工作：[工作安排](https://github.com/saturn-lab/saturnlab-admin/wiki)
 
-实验室团队：
+实验室团队：[saturn-lab](http://saturn-lab.github.io)
 

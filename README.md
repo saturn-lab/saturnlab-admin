@@ -3,7 +3,7 @@
 
 课程组安排：[工作安排](https://github.com/saturn-lab/saturnlab-admin/wiki/工作安排)
 
-实验室工作：[管理工作]()
+课程组工作：[管理工作]()
 
-实验室团队：[saturn-lab](http://saturn-lab.github.io)
+课程组团队：[saturn-lab](http://saturn-lab.github.io)
 
